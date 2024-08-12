@@ -1,4 +1,4 @@
-# WaveCon-Analysis
+# WaveCon Telecom Analysis
 [Link to Presentation Video](https://www.youtube.com/embed/MirnkVpcr4I?si=0wiIJjZT3Ts-KlGu)
 
 [Link to Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWQzMWI0OTEtYWVhMC00MzlhLTlhNjMtYmMzZjQ4MjEwNDBjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
